@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, I'm Maxim
+======
 
-<!--
-**MaximRiebus/MaximRiebus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A student from Belgium learning Github
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on learning Github
+- 🌱 I’m currently learning Github
+- 👯 I’m looking to collaborate on learning Github
+- 🤔 I’m looking for help with Github
+- !💬 Don't sk me about Github
+- 📫 How to reach me: Not via Github
+- 😄 Pronouns: Githubber/Githubbers
+- ⚡ Fun fact: I am not yet familiar with Github
