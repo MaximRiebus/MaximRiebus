@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Maxim
-======
 
-A student from Belgium learning Github
+---
+
+A **student** from **Belgium** learning **Github**
 
 - 🔭 I’m currently working on learning Github
 - 🌱 I’m currently learning Github
